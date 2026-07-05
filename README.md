@@ -76,6 +76,20 @@ Outputs are saved to `outputs/`:
 pytest
 ```
 
+## Free Deployment
+
+Recommended host: Streamlit Community Cloud.
+
+Deployment values:
+
+- Repository: `DiellzaPervetica/wfm-planning-agent`
+- Branch: `main`
+- Main file path: `app.py`
+- Python version: `3.12`
+- Secrets: none
+
+See [docs/deployment.md](docs/deployment.md) for the full step-by-step guide.
+
 ## Sample Screenshots
 
 Add screenshots after running the Streamlit app locally:
