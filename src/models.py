@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, Field
 
 
 class Agent(BaseModel):
@@ -76,8 +76,6 @@ class ValidationWarning(BaseModel):
 
 class AgentRunResult(BaseModel):
     """Final output object returned by the local planning agent."""
-
-    model_config = ConfigDict(arbitrary_types_allowed=True)
 
     forecast_summary: dict[str, Any]
     forecast_with_gap: Any
