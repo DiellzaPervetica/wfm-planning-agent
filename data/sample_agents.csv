@@ -1,0 +1,25 @@
+agent_id,agent_name,skill,site,contract_hours,available_days,preferred_start,last_weekend_worked,last_shift_start,vacation
+A001,Ana Marku,DE,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",08:00,2,08:00,false
+A002,Blerta Kola,EN,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",09:00,0,10:00,false
+A003,Dritan Hoxha,FR,PZ,40,"Mon,Tue,Wed,Thu,Fri",10:00,1,10:00,false
+A004,Elira Deda,MIX,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",11:00,0,09:00,false
+A005,Fatos Leka,DE,PZ,32,"Mon,Tue,Wed,Thu,Fri,Sat",08:00,1,08:00,false
+A006,Genta Rama,EN,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",09:00,2,09:00,false
+A007,Hana Basha,FR,PZ,32,"Mon,Tue,Wed,Thu,Fri,Sun",10:00,0,11:00,false
+A008,Ilir Prenga,MIX,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",11:00,1,11:00,false
+A009,Jona Sula,DE,PZ,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",08:00,0,09:00,false
+A010,Krenar Muca,EN,VU,40,"Mon,Tue,Wed,Thu,Fri",09:00,2,09:00,true
+A011,Linda Tafa,FR,PZ,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",10:00,1,08:00,false
+A012,Mira Selimi,MIX,VU,32,"Mon,Tue,Wed,Thu,Fri,Sat",11:00,0,10:00,false
+A013,Nora Zeka,DE,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",08:00,1,08:00,false
+A014,Orges Meta,EN,PZ,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",09:00,0,11:00,false
+A015,Pranvera Nika,FR,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",10:00,2,10:00,false
+A016,Qendrim Gashi,MIX,PZ,32,"Mon,Tue,Wed,Thu,Fri,Sun",11:00,0,08:00,false
+A017,Rina Bardhi,DE,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",08:00,0,10:00,false
+A018,Samir Krasniqi,EN,PZ,40,"Mon,Tue,Wed,Thu,Fri",09:00,1,09:00,true
+A019,Tina Lami,FR,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",10:00,0,11:00,false
+A020,Uran Dushi,MIX,PZ,32,"Mon,Tue,Wed,Thu,Fri,Sat",11:00,2,11:00,false
+A021,Vesa Cani,DE,VU,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",08:00,1,09:00,false
+A022,Ylli Beka,EN,PZ,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",09:00,0,08:00,false
+A023,Zana Peci,FR,VU,32,"Mon,Tue,Wed,Thu,Fri,Sun",10:00,1,10:00,false
+A024,Arben Daka,MIX,PZ,40,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",11:00,0,09:00,false

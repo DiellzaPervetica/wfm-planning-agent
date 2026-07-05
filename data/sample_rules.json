@@ -1,0 +1,12 @@
+{
+  "allowed_shift_starts": ["08:00", "09:00", "10:00", "11:00"],
+  "default_shift_hours": 8,
+  "min_saturday_agents": 15,
+  "min_sunday_agents": 15,
+  "max_same_start_repetition": 2,
+  "avoid_vacation_assignments": true,
+  "weekend_fairness_weight": 0.4,
+  "coverage_weight": 0.4,
+  "preference_weight": 0.2,
+  "lunch_after_hours": [3, 4, 4.5]
+}
